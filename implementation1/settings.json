@@ -1,0 +1,9 @@
+{
+  "soft_block_percent": 30,
+  "powerup_percent": 75,
+  "timer_seconds": 180,
+  "human_player_number": 1,
+  "total_player_number": 4,
+  "bot_types": ["hostile", "careful", "greedy"],
+  "rounds_to_win": 3
+}
